@@ -1,1 +1,1 @@
-Hi, I'm Sohaib Panwala, i'm absolutely fascinated with all the upheaval and growth in the data sector. What particularly interests me is recommender engines, Time Series data, computer vision, football analytics and reinforcement learning amonst so many others
+Hi, I'm Sohaib Panwala, i'm absolutely fascinated with all the upheaval and growth in the data sector. What particularly interests me is recommender engines, Time Series data, computer vision, football analytics and reinforcement learning amongst so many others
